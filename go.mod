@@ -1,1 +1,1 @@
-module github.com/Summer023/test
+module github.com/Summer023/test/firstmodule
