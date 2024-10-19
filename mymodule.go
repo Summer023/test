@@ -1,5 +1,5 @@
 // file: mymodule.go
-package mymodule
+package firstmodule
 
 import "fmt"
 

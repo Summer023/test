@@ -1,5 +1,5 @@
 // file: mymodule_test.go
-package mymodule
+package firstmodule
 
 import "testing"
 
